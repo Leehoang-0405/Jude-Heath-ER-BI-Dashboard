@@ -9,6 +9,8 @@
 
 **The Outcome:** This project delivered a three tier Power BI reporting suite that identifies high density arrival windows. The implementation provides a roadmap to reduce wait times by 15 percent and raise patient satisfaction to a 7.0 benchmark through data driven roster optimization.
 
+<img width="993" height="698" alt="Screenshot 2026-01-12 at 6 52 35 PM" src="https://github.com/user-attachments/assets/55fc1e5b-e6db-4ff7-b6fe-387533e41744" />
+
 ## 2. Business Problem
 **The Decision Framework:** The organization was repeatedly making staffing and resource allocation decisions based on static institutional hours rather than dynamic clinical demand cycles.
 
@@ -51,9 +53,6 @@ I isolated the 20 to 39 year old cohort (2,388 patients) and cross referenced th
 **Finding 3: Service Gaps in Core Demographics**
 * **Result:** A score of 4.99/10 indicates a communication failure for the primary 20 to 39 year old patient base.
 * **Targeted KPI:** Implement digital communication platforms to increase the Satisfaction Score to a **minimum of 7.0 out of 10** and achieve a **90% positive feedback rate** on communication clarity.
-
-<img width="993" height="698" alt="Screenshot 2026-01-12 at 6 52 35 PM" src="https://github.com/user-attachments/assets/55fc1e5b-e6db-4ff7-b6fe-387533e41744" />
-
 
 ## 6. Next Steps
 * **Predictive Staffing:** Integrate machine learning to forecast arrival surges 24 hours in advance.
