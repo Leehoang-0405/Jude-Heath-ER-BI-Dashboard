@@ -1,6 +1,9 @@
 # Emergency Department Operational Performance & Patient Experience Analytics
 
 ## 1. Executive Summary
+
+<img width="993" height="698" alt="Screenshot 2026-01-12 at 6 52 35 PM" src="https://github.com/user-attachments/assets/55fc1e5b-e6db-4ff7-b6fe-387533e41744" />
+
 **The Business Problem:** St. Jude’s Health System faced a critical misalignment between Emergency Department staffing and patient demand, resulting in an average satisfaction score of 4.99 out of 10 and a 35.3-minute average wait time.
 
 **The Failing Decision:** Hospital leadership was utilizing rigid staffing rosters that failed to synchronize with predictable surge patterns, causing "exit blocks" and high-density arrival windows for a core demographic of 2,388 young adults.
@@ -9,7 +12,6 @@
 
 **The Outcome:** This project delivered a three tier Power BI reporting suite that identifies high density arrival windows. The implementation provides a roadmap to reduce wait times by 15 percent and raise patient satisfaction to a 7.0 benchmark through data driven roster optimization.
 
-<img width="993" height="698" alt="Screenshot 2026-01-12 at 6 52 35 PM" src="https://github.com/user-attachments/assets/55fc1e5b-e6db-4ff7-b6fe-387533e41744" />
 
 ## 2. Business Problem
 **The Decision Framework:** The organization was repeatedly making staffing and resource allocation decisions based on static institutional hours rather than dynamic clinical demand cycles.
